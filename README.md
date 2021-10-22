@@ -24,6 +24,13 @@ and many other things.
 
 
 ## Installation 
-After download or clone run `npm install` OR `yarn install` to install all the dependancies.
+After download or clone run `npm install` OR `yarn install` to install all the dependancies
 
+
+=======
 ### 🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+
+<br>
+<a href="https://github.com/silentkiller9369/pizzzaappnode/issues">Report Bug</a>
+    .
+<a href="https://github.com/silentkiller9369/pizzzaappnode/issues">Request Feature</a>
